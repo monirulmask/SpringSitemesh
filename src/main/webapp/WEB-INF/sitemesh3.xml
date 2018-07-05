@@ -1,0 +1,4 @@
+<sitemesh>
+    <mapping path="/*" decorator="/views/decorators/layout.jsp"/>
+    <mapping path="/login*" decorator="/views/decorators/loginLayout.jsp"/>
+</sitemesh>
